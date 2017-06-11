@@ -17,6 +17,8 @@ $ make clean
 ## Table of contents
 ### Data-Structures
 1. Vector - Templeted class mirroring the STL vector implementation
+2. Stack - Templated class implementation of a stack
 
 ### Algorithms
+1. Mergesort - A recursive implementation of mergesort
 
